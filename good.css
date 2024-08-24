@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://img.freepik.com/premium-photo/empty-exam-room-appoint-study-work_41043-1022.jpg');
+   background-color: grey
+}
+.white-text {
+    color: white;
+}
+.center-radio {
+    margin: 0 auto;
+    display: block;
+}
+ 
+a:visited {
+    color: white;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: yellow;
+}

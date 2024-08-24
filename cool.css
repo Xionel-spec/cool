@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+  }
+  
+  .center-radio {
+    margin: 0 auto;
+    display: block;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  a:visited{
+      color: green
+  }
+  a:hover{
+      color: orangered
+  }
+  a:active{
+      color: mediumaquamarine
+  }
+  body {
+    background-image:url('https://thumbs.dreamstime.com/b/mathematics-icons-school-board-25074848.jpg');
+  }
+  .black-text {
+    color: black;
+  }
+  p {
+    font-size: 25;
+  }

@@ -1,0 +1,23 @@
+.center-radio {
+    margin: 0 auto;
+    display: block;
+}
+body {
+    background-image: url('https://thumbs.dreamstime.com/b/captivating-image-features-abstract-representation-quantum-physics-particle-dynamics-vibrant-colors-blue-purple-322222806.jpg');
+    background-color: silver
+}
+a:visited{
+    color: coral
+}
+a:hover{
+    color: chartreuse
+}
+a:active{
+    color: chocolate
+}
+.white-text {
+    color: white;
+}
+body{
+    font-size: 20px;
+}

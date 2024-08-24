@@ -1,0 +1,23 @@
+.center-radio {
+    margin: 0 auto;
+    display: block;
+}
+body {
+    background-image: url('https://play-lh.googleusercontent.com/W1HCZnSEPnP88ew2-dMNO4-1DcFj3raoZ012Ab0cWanFDToKeZeRjjCADjXhkAvh2A08');
+    background-color: silver
+}
+a:visited{
+    color: coral
+}
+a:hover{
+    color: chartreuse
+}
+a:active{
+    color: chocolate
+}
+.black-text{
+    color: black;
+}
+body{
+    font-size: 20px;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+    }
+    a:visited{
+        color: purple
+    }
+    a:hover{
+        color: green
+    }
+    a:active{
+        color: peachpuff
+    }body {
+        background-image:url('https://thumbs.dreamstime.com/b/mathematics-icons-school-board-25074848.jpg');
+      }
+      .black-text {
+        color: black;
+      }
